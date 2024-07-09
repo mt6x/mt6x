@@ -1,5 +1,5 @@
 <h1 align="center">
-<a href="https://github.com/mt6x/mt6x/standard.gif">
+<a href="https://github.com/mt6x/mt6x/standard.gif" alt="MT6X">
 </h1>
 
 - 🌱 Aspiring developer from the United Kingdom.
