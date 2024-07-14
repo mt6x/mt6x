@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/mt6x/mt6x/blob/main/standard.gif" alt="MT6X"><img width="10%" src="https://lanyard.cnrad.dev/api/1096157680567062548" alt="Discord Presence"></p>
+<p align="center"><img width="25%" src="https://github.com/mt6x/mt6x/blob/main/standard.gif" alt="MT6X"><img width="25%" src="https://lanyard.cnrad.dev/api/1096157680567062548" alt="Discord Presence"></p>
 <hr/>
 
 - 🃏 Aspiring developer from the United Kingdom.
