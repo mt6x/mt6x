@@ -1,4 +1,4 @@
-<center><img src="https://github.com/mt6x/mt6x/blob/main/standard.gif" alt="MT6X" align="center"></center>
+<p align="center"><img src="https://github.com/mt6x/mt6x/blob/main/standard.gif" alt="MT6X" align="center"></p>
 <hr/>
 
 - 🃏 Aspiring developer from the United Kingdom.
