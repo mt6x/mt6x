@@ -7,4 +7,4 @@
 
 <hr/>
 
-<p align="center"><img width="50%" src="https://lanyard.cnrad.dev/api/1096157680567062548" alt="Discord Presence"></p>
+<img width="50%" src="https://lanyard.cnrad.dev/api/1096157680567062548" alt="Discord Presence">
