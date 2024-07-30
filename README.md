@@ -6,5 +6,3 @@
 - 🃏 I develop mainly in Go, but sometimes Python.
 
 <hr/>
-
-<img width="50%" src="https://lanyard.cnrad.dev/api/1096157680567062548" alt="Discord Presence">
